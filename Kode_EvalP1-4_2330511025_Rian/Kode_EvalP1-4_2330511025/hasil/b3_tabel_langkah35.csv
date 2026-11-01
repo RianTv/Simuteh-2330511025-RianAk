@@ -1,9 +1,0 @@
-kondisi,citra,kelas,perbaikan,KB_sebelum,KB_sesudah
-gelap,teh_042,berat,regang persentil 2-98,3.41,3.71
-gelap,teh_022,ringan,regang persentil 2-98,2.26,2.53
-terang,teh_043,berat,"gamma 1,8",4.78,5.22
-terang,teh_023,ringan,"gamma 1,8",1.67,1.83
-kontras_rendah,teh_044,berat,regang persentil 2-98,1.89,2.02
-kontras_rendah,teh_024,ringan,regang persentil 2-98,1.64,1.75
-bayangan,teh_045,berat,"CLAHE clip 2, tile 8",1.11,1.71
-bayangan,teh_025,ringan,"CLAHE clip 2, tile 8",1.69,1.76
